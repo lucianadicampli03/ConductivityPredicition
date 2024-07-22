@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="66.123787mm"
+   height="53.389893mm"
+   viewBox="0 0 66.123787 53.389893"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-18.873787,-47.381068)">
+    <g
+       id="g1">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         id="rect25"
+         width="66.123787"
+         height="47.053398"
+         x="18.873787"
+         y="47.381065" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583;marker-end:url(#marker2)"
+         d="M 35.098029,85.387659 V 49.802707"
+         id="path1" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583;marker-end:url(#Triangle)"
+         d="m 31.616527,81.90616 c 52.427184,0 52.427184,0 52.427184,0"
+         id="path1-1" />
+      <path
+         id="path3"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         d="m 43.10848,51.837146 c 10.549634,33.479935 11.405935,38.631071 29.998686,0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:none;stroke:#000000;stroke-width:0.264583"
+         x="30.342234"
+         y="53.08252"
+         id="text3"><tspan
+           id="tspan3"
+           style="font-style:italic;font-size:4.93889px;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="30.342234"
+           y="53.08252">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="79.492714"
+         y="85.194176"
+         id="text4"><tspan
+           id="tspan4"
+           style="font-style:italic;font-weight:bold;font-size:4.93889px;stroke-width:0.264583"
+           x="79.492714"
+           y="85.194176">w</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="67.203331"
+         y="68.025871"
+         id="text6"><tspan
+           id="tspan6"
+           style="stroke-width:0.264583"
+           x="67.203331"
+           y="68.025871"><tspan
+   id="tspan12"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright'">∇</tspan><tspan
+   style="font-style:italic"
+   id="tspan9"><tspan
+   style="font-weight:bold;font-size:65%;baseline-shift:sub"
+   id="tspan8">w</tspan>E <tspan
+   style="font-style:normal"
+   id="tspan14">&gt;</tspan> </tspan>0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="56.951588"
+         y="85.708611"
+         id="text6-8"><tspan
+           id="tspan6-7"
+           style="stroke-width:0.264583"
+           x="56.951588"
+           y="85.708611"><tspan
+             id="tspan12-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright'"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+   id="tspan21">－<tspan
+   style="font-style:italic"
+   id="tspan23">η</tspan></tspan>∇</tspan><tspan
+             style="font-style:italic"
+             id="tspan9-7"><tspan
+   style="font-weight:bold;font-size:65%;baseline-shift:sub"
+   id="tspan8-6">w</tspan>E</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="43.1492"
+         y="85.708611"
+         id="text6-5"><tspan
+           id="tspan6-1"
+           style="stroke-width:0.264583"
+           x="43.1492"
+           y="85.708611">－<tspan
+   style="font-style:italic"
+   id="tspan24">η</tspan><tspan
+   id="tspan12-92"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright'">∇</tspan><tspan
+   style="font-style:italic"
+   id="tspan9-76"><tspan
+   style="font-weight:bold;font-size:65%;baseline-shift:sub"
+   id="tspan8-5">w</tspan>E</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke:none;stroke-width:0.264583"
+         x="36.814163"
+         y="70.197502"
+         id="text6-7"><tspan
+           id="tspan6-2"
+           style="stroke-width:0.264583"
+           x="36.814163"
+           y="70.197502"><tspan
+   id="tspan12-9"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright'">∇</tspan><tspan
+   style="font-style:italic"
+   id="tspan9-5"><tspan
+   style="font-weight:bold;font-size:65%;baseline-shift:sub"
+   id="tspan8-1">w</tspan>E <tspan
+   style="font-style:normal"
+   id="tspan13">&lt;</tspan> </tspan>0</tspan></text>
+      <path
+         style="fill:#00ff00;stroke:#00ff00;stroke-width:0.139336"
+         d="m 44.074354,56.49084 7.596435,21.068075"
+         id="path14" />
+      <path
+         style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583"
+         d="M 72.619382,53.509278 60.611198,76.346295"
+         id="path15" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         d="m 34.667475,79.227016 h 20.67597 v 11.140776"
+         id="path16" />
+      <path
+         style="fill:none;stroke:#00ff00;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         d="M 48.540648,68.930038 V 81.974615"
+         id="path17" />
+      <path
+         style="fill:none;stroke:#ff00ff;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         d="M 65.20631,67.499999 V 81.98301"
+         id="path18" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright';fill:#000000;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         x="20.053396"
+         y="79.885918"
+         id="text18"><tspan
+           id="tspan18"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="20.053396"
+           y="79.885918">Minimam</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Lucida Bright';-inkscape-font-specification:'Lucida Bright';fill:#000000;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+         x="41.810677"
+         y="92.37532"
+         id="text19"><tspan
+           id="tspan19"
+           style="stroke-width:0.264583"
+           x="41.810677"
+           y="92.37532">Optimal parameter</tspan></text>
+      <path
+         style="fill:#000000;stroke:#00ff00;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;marker-end:url(#ConcaveTriangle)"
+         d="m 48.494309,82.623368 c 4.882448,0 4.882448,0 4.882448,0"
+         id="path19" />
+      <path
+         style="fill:#000000;stroke:#ff00ff;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;marker-end:url(#ConcaveTriangle)"
+         d="M 65.199706,82.623368 H 57.249485"
+         id="path20" />
+    </g>
+  </g>
+</svg>
